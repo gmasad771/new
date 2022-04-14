@@ -1,0 +1,45 @@
+a{text-decoration: none;}
+.full-wraper{width: 100%; clear: both; overflow: hidden;}
+.wraper{width: 1000px; margin: 0 auto; overflow: hidden;}
+.logo img{width: 100px; padding: 5 5 5 5; float: left;}
+
+.menubar{float: left; width: 1000px; text-align: right; margin-bottom: 10px;}
+.menubar a{ color: rgb(29, 64, 110); padding: 0 10px; font-size: 20px;
+     font-family: Verdana, Tahoma, sans-serif;}
+.log{float: right; margin:0 100px;}
+/*====================================banner============================================*/
+.baner-img{background-image: url("/Volumes/Asad/My\ Design/nat.jpg");
+background-position: center; background-size: cover; background-repeat: no-repeat;
+padding: 200px 0;}
+
+.baner-text{color:white; text-align: justify;
+ width: 100%; margin: 0 20px;}
+.baner-text h1{font-family: Arial; text-align: center;}
+.about{margin: 5px 0; }
+.about-me{background-color: #ddd;border: 1px solid black; width: 400px; text-align: justify;
+padding: 0 10px;}
+.about h1{text-align: center; font-family: Arial; color: blue;}
+
+.about p{color: rgb(75, 54, 44);}
+
+/*====================================website==============================================*/
+
+.reg{background-image: url("/Volumes/Asad/My\ Design/sbody.webp");clear: both;
+     background-size: cover; background-repeat: no-repeat;}
+.signup-body{margin: 50px auto;}
+.table{ padding: 100px 0; height: 100%; margin: 0 auto;}
+h1{text-align: center; color: blue;}
+
+.table tr td{padding: 10px 0;font-size: 18px; font-weight: 300;
+font-family: Verdana, Tahoma, sans-serif;}
+
+.button{background-color:aqua; font-size: 25px; align-items: center;}
+
+
+
+
+
+
+
+
+
